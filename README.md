@@ -14,7 +14,7 @@ multimodal, NLP, 신약개발에 관심이 있습니다.
 
 <br><br>
 - Awards
-<img width="902" height="246" alt="image" src="https://github.com/user-attachments/assets/601bec3c-b0ff-4ade-ae9c-f1a688a3a397" />
+<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/601bec3c-b0ff-4ade-ae9c-f1a688a3a397" />
 
 <br><br>
 
