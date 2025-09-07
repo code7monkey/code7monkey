@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-안녕하세요!
+안녕하세요!<br>
 multimodal, NLP, 신약개발에 관심이 있습니다.
 다양한 해커톤에 참여하며 배우고 있습니다😊
-
-
+<br><br>
 - Name : 이승현  
 - Email : hjk5975@gmail.com  
 - Interests : Data Analysis, NLP, Bio
@@ -13,9 +12,11 @@ multimodal, NLP, 신약개발에 관심이 있습니다.
   |---|---|---|---|
   |학사|고려대학교|생명공학과|2021.03~미정|
 
-
+<br><br>
 - Awards
 <img width="902" height="246" alt="image" src="https://github.com/user-attachments/assets/601bec3c-b0ff-4ade-ae9c-f1a688a3a397" />
+
+<br><br>
 
   |대회|대회명|순위|수상|
   |---|------|----|---|
