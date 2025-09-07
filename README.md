@@ -48,6 +48,7 @@ multimodal, NLP, 신약개발에 관심이 있습니다.
   |Dacon|제 4회 ETRI 휴먼이해 인공지능 논문경진대회|235/370|-|
   |Dacon|문맥 기반 문장 순서 예측 AI 경진대회|61/204|-|
   |Dacon|HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회|212/748|-|
+  |Dacon|Boost up AI 2025 : 신약 개발 경진대회|64/763|-|
   |Samsung|2025 Samsung Collegiate Programming Challenge : AI 챌린지|4등상|수상🥇|
   |Dacon|2025 전력사용량 예측 AI 경진대회|407/934|-|
   |Dacon|Jump AI(.py) 2025 : 제 3회 AI 신약개발 경진대회|2/502|미정|
