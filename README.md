@@ -1,16 +1,58 @@
 ## Hi there 👋
 
-<!--
-**code7monkey/code7monkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요!
+multimodal, NLP, 신약개발에 관심이 있습니다.
+다양한 해커톤에 참여하며 배우고 있습니다😊
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Name : 이승현  
+- Email : hjk5975@gmail.com  
+- Interests : Data Analysis, NLP, Bio
+- Education
+  |학력|기관|전공|기간|
+  |---|---|---|---|
+  |학사|고려대학교|생명공학과|2021.03~미정|
+
+
+- Awards
+<img width="902" height="246" alt="image" src="https://github.com/user-attachments/assets/601bec3c-b0ff-4ade-ae9c-f1a688a3a397" />
+
+  |대회|대회명|순위|상위|수상|
+  |---|------|----|----|---|
+  |Dacon|영어 음성 국적 분류|1/71|1.41%|수상|
+  |Dacon|카메라 이미지 품질 향상|2/228|0.88%|수상|
+  |Dacon|AI프렌즈 위성관측 데이터 활용 강수량 산출|2/213|0.94%|수상|
+  |알체라|눈바디AI(사람 신체 segmentation)|3등|-|수상|
+  |Dacon|북극 해빙예측|3/52|5.77%|수상|
+  |롯데정보통신|유통 진열 상품 약 1,000종 대상 이미지 분류 AI 모델 개발|3/105|2%|수상|
+  |Dacon|AI프렌즈 공공 데이터 활용 전력수요 및 SMP 예측|2/62|4.84%|수상|
+  |Dacon|유방암의 임파선 전이 예측|4/446|0.90%|수상|
+  |Dacon|로그 분석을 통한 보안 위험도 예측|4/152|2.63%|수상|
+  |Dacon|2023 교원그룹 AI OCR 챌린지|5/430|1.16%|수상|
+  |Dacon|행동 데이터 분석|4/94|4.26%|-|
+  |Dacon|문장 유형 분류|6/333|1.80%|-|
+  |Dacon|천체 유형 분류|7/352|1.99%|-|
+  |Dacon|진동데이터 활용 충돌체 탐지|8/226|3.54%|-|
+  |Dacon|예술 작품 화가 분류|9/215|4.19%|-|
+  |Dacon|팔당댐 홍수 안전운영에 따른 한강 수위예측|9/308|2.92%|-|
+  |Dacon|한국어 문서 추출요약|10/63|15.87%|-|
+  |Dacon|병변 검출 AI 경진대회|11/250|4.40%|-|
+  |Dacon|생체 광학 데이터 분석|11/316|3.48%|-|
+  |Dacon|원자력발전소 상태 판단 |11/188|5.85%|-|
+  |Dacon|공공데이터 활용 수력 댐 강우예측|12/132|9.09%|-|
+  |Dacon|주식 종료 가격|13/205|6.34%|-|
+  |Dacon|생육 기간 예측|14/97|14.43%|-|
+  |Dacon|2021 Ego-Vision 손동작 인식|14/290|4.83%|-|
+  |Dacon|AI 기반 회의 녹취록 요약|15/430|3.49%|-|
+  |Dacon|Samsung AI Challenge for Scientific Discovery|15/220|6.82%|-|
+  |Dacon|생육 환경 최적화|16/136|11.76%|-|
+  |Dacon|농업 환경 변화에 따른 작물 병해 진단|16/344|4.65%|-|
+  |Dacon|컴퓨터 비전 학습|18/356|5.06%|-|
+  |Dacon|제 2회 컴퓨터 비전 학습|20/216|9.26%|-|
+  |Dacon|AI 양재 허브 인공지능 오픈소스 경진대회|21/124|16.94%|-|
+  |Dacon|HAICon2020 산업제어시스템 보안위협 탐지|22/267|8.24%|-|
+  |Dacon|랜드마크 분류|24/82|29.27%|-|
+  |Dacon|작물 병해 분류|27/170|15.88%|-|
+  |Dacon|모션 키포인트 검출 AI 경진대회|28/156|17.95%|-|
+  |Dacon|심리 성향 예측|28/581|4.82%|-|
+  |Kaggle|ASHRAE - Great Energy Predictor III|1011/3614|28%|-|
