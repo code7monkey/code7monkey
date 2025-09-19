@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 안녕하세요!<br>
-multimodal, NLP, 신약개발에 관심이 있습니다.
-다양한 해커톤에 참여하며 배우고 있습니다😊
+AL/ML 전반적으로 공부하고 있습니다. 
+github은 기록용으로 참고만 해주세요~
+
 <br><br>
 - Name : 이승현  
 - Email : hjk5975@gmail.com  
