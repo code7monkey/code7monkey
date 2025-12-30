@@ -15,7 +15,7 @@ github은 기록용으로 참고만 해주세요~
 
 <br><br>
 - Awards
-<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/9334896d-c7c9-41b3-84ea-ef485f94a632" />
+<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/53059019-8f44-4eee-85c3-0e1bfd11ee36" />
 
 
 <br><br>
